@@ -1,0 +1,89 @@
+body {
+  background-color:#293462;
+}
+
+.box {
+  background-color: #142850;
+  height: 55.25rem;
+  width:30.25rem;
+margin:11.875rem auto 3.125rem auto;
+border-radius: 10px;
+}
+
+
+.box-picture {
+  height: 26.5rem;
+  width: 27.5rem;
+  margin: 1.4rem auto 0 1.4rem;
+  border-radius: 10px;
+
+}
+
+h2 {
+  line-height: 3.5;
+  margin-left: 1.4rem;
+  color: white;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+p {
+  margin-left: 1.4rem;
+  font-size: 1.6rem;
+  color: grey;
+  font-family: 'Work Sans', sans-serif;
+}
+.second {
+   font-family: 'Barlow', sans-serif;
+  color: #00A8CC;
+  font-size: 1.25rem;
+  margin-left: 3.125rem;
+}
+
+.icon {
+  color: #00A8CC;
+  font-size: 25px;
+  margin-left: 1.4rem;
+  float: left;
+}
+
+.third{
+  color:#00A8CC;
+  height: 35px;
+  width: 20px;
+  margin-left: 1.4rem;
+
+
+}
+
+.text {
+  color: grey;
+    text-align: right;
+    margin-left: 12rem;
+}
+
+hr {
+  color: white;
+  width: 90%;
+margin: auto;
+}
+
+img {
+  height: 3.5rem;
+  margin-left: 1.4rem;
+  margin-top: 1.5rem;
+  float: left;
+}
+
+h5 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #B8E8FC;
+  margin-left: 1.4rem;
+  margin-top: 2.5rem;
+  display: inline-block;
+
+}
+
+span {
+  font-family: 'Fira Sans', sans-serif;
+  color: white;
+}
